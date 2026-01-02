@@ -1,2 +1,8 @@
 # file-integrity-demo
-Iterative project building a simple File Integrity Monitoring (FIM) tool from a baseline/verify demo to incorporating hashing and alerts
+
+This project demonstrates the core concept of file integrity monitoring:
+1. Create a trusted baseline of a file
+2. Compare the file later to detect changes
+
+This initial version uses plain text comparison for clarity.
+Future iterations will add hashing and additional features.
